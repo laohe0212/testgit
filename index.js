@@ -4,5 +4,5 @@
 
 window.onload = function () {
     var p1 = document.querySelector("#p1")
-    p1.style.color = "red"
+    p1.style.color = "blue"
 }
