@@ -7,4 +7,5 @@ window.onload = function () {
 	var p2 = document.querySelector("#p2")
     p1.style.color = "blue";
 	p2.style.color = "green";
+	console.log("我上传了")
 }
